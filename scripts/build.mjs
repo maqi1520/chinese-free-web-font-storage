@@ -4,6 +4,12 @@ import path from "path";
 import semver from "semver";
 import mri from "mri";
 import { fontSplit } from "cn-font-split";
+
+import fs from "fs-extra";
+
+const overrides=fs.readJSONSync("./overrides.json");
+
+
 const argv = process.argv.slice(2);
 
 const input = mri(argv);
@@ -46,10 +52,15 @@ for (const iterator of packages) {
         }
         console.log("新旧hash", hash, cacheData.version_tag);
     }
+    if(!overrides[iterator]) {
+        console.log(`跳过 ${iterator}, 不在 overrides.json 中`);
+        continue;
+    }
     console.log(`${iterator} 开始打包`);
 
     // ! 清空文件夹，保证是最新版
     fse.emptyDirSync(`./packages/${iterator}/dist/`);
+    
 
     // 进行打包操作
     for (const name of fontsName) {
@@ -64,7 +75,8 @@ for (const iterator of packages) {
             input: `./packages/${iterator}/fonts/${name}`,
             outDir: dest,
             previewImage: {
-                text: "中文网字计划\nThe Chinese Web Font Project",
+                text: overrides[iterator],
+                
                 name: "preview",
             },
         });
