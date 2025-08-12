@@ -1,1 +1,601 @@
-{"AlibabaPuHuiTi":{"name":"阿里普惠体","remotePath":[{"path":"packages/AlibabaPuHuiTi/dist/阿里巴巴普惠体-Regular/result.css","css":{"family":"Alibaba PuHuiTi 3.0 55 Regular","style":"normal","weight":"400","display":"swap"}},{"path":"packages/AlibabaPuHuiTi/dist/阿里巴巴普惠体-Light/result.css","css":{"family":"Alibaba PuHuiTi 3.0 45 Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/AlibabaPuHuiTi/dist/阿里巴巴普惠体-Bold/result.css","css":{"family":"Alibaba PuHuiTi 3.0 55 Regular","style":"normal","weight":"700","display":"swap"}}]},"DingTalk_JinBuTi":{"name":"钉钉进步体","remotePath":[{"path":"packages/DingTalk_JinBuTi/dist/钉钉进步体-Regular/result.css","css":{"family":"DingTalk JinBuTi","style":"normal","weight":"400","display":"swap"}}]},"MiSans":{"name":"小米 MiSans","remotePath":[{"path":"packages/MiSans/dist/MiSans-Semibold/result.css","css":{"family":"MiSans Semibold","style":"normal","weight":"600","display":"swap"}},{"path":"packages/MiSans/dist/MiSans-Regular/result.css","css":{"family":"MiSans","style":"normal","weight":"400","display":"swap"}},{"path":"packages/MiSans/dist/MiSans-Light/result.css","css":{"family":"MiSans Light","style":"normal","weight":"300","display":"swap"}}]},"syst":{"name":"思源宋体","remotePath":[{"path":"packages/syst/dist/SourceHanSerifCN/result.css","css":{"family":"Source Han Serif CN VF","style":"normal","weight":"250 900","display":"swap"}}]},"lxgwwenkai":{"name":"霞鹜文楷","remotePath":[{"path":"packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css","css":{"family":"LXGW WenKai","style":"normal","weight":"400","display":"swap"}},{"path":"packages/lxgwwenkai/dist/LXGWWenKai-Light/result.css","css":{"family":"LXGW WenKai Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/lxgwwenkai/dist/LXGWWenKai-Bold/result.css","css":{"family":"LXGW WenKai","style":"normal","weight":"700","display":"swap"}}]},"lxgwmanhei":{"name":"霞鹜漫黑","remotePath":[{"path":"packages/lxgwmanhei/dist/LXGWMarkerGothic/result.css","css":{"family":"LXGW Marker Gothic","style":"normal","weight":"400","display":"swap"}}]},"dyh":{"name":"得意黑","remotePath":[{"path":"packages/dyh/dist/SmileySans-Oblique/result.css","css":{"family":"Smiley Sans Oblique","style":"normal","weight":"400","display":"swap"}}]},"ysbth":{"name":"优设标题黑","remotePath":[{"path":"packages/ysbth/dist/优设标题黑/result.css","css":{"family":"YouSheBiaoTiHei","style":"normal","weight":"400","display":"swap"}}]},"dyzgt":{"name":"斗鱼追光体","remotePath":[{"path":"packages/dyzgt/dist/斗鱼追光体/result.css","css":{"family":"DOUYU Font","style":"normal","weight":"400","display":"swap"}}]},"hwmct":{"name":"汇文明朝体","remotePath":[{"path":"packages/hwmct/dist/汇文明朝体/result.css","css":{"family":"Huiwen-mincho","style":"normal","weight":"400","display":"swap"}}]},"hcqyt":{"name":"寒蝉全圆体","remotePath":[{"path":"packages/hcqyt/dist/ChillRoundFRegular/result.css","css":{"family":"寒蝉全圆体","style":"normal","weight":"400","display":"swap"}},{"path":"packages/hcqyt/dist/ChillRoundFBold/result.css","css":{"family":"寒蝉全圆体 Bold","style":"normal","weight":"700","display":"swap"}}]},"dymh":{"name":"抖音美好体","remotePath":[{"path":"packages/dymh/dist/DouyinSansBold/result.css","css":{"family":"Douyin Sans","style":"normal","weight":"700","display":"swap"}}]},"mkwtyt":{"name":"猫啃网糖圆体","remotePath":[{"path":"packages/mkwtyt/dist/MaoKenTangYuan/result.css","css":{"family":"MaoKenTangYuan (beta)","style":"normal","weight":"400","display":"swap"}}]},"mksjh":{"name":"猫啃什锦黑","remotePath":[{"path":"packages/mksjh/dist/MaokenAssortedSans/result.css","css":{"family":"MaokenAssortedSans","style":"normal","weight":"400","display":"swap"}}]},"mkzyt":{"name":"猫啃珠圆体","remotePath":[{"path":"packages/mkzyt/dist/猫啃珠圆体/result.css","css":{"family":"MaokenZhuyuanTi","style":"normal","weight":"400","display":"swap"}}]},"ToneOZ-Pinyin-Kai":{"name":"拼音鼎楷","remotePath":[{"path":"packages/ToneOZ-Pinyin-Kai/dist/ToneOZ-PinyinW-Kai-Simplified/result.css","css":{"family":"ToneOZ-PinyinW-Kai-Simplified","style":"normal","weight":"400","display":"swap"}},{"path":"packages/ToneOZ-Pinyin-Kai/dist/ToneOZ-Pinyin-Kai-Simplified/result.css","css":{"family":"ToneOZ-Pinyin-Kai-Simplified","style":"normal","weight":"400","display":"swap"}}]},"yqt":{"name":"游趣体","remotePath":[{"path":"packages/yqt/dist/ChildFunSans-Demo/result.css","css":{"family":"Child Fun Sans Demo","style":"normal","weight":"400","display":"swap"}}]},"qtbfsxt":{"name":"千图笔锋手写体","remotePath":[{"path":"packages/qtbfsxt/dist/千图笔锋手写体/result.css","css":{"family":"qiantubifengshouxieti","style":"normal","weight":"400","display":"swap"}}]},"zqzmxs":{"name":"钟齐志莽行书","remotePath":[{"path":"packages/zqzmxs/dist/钟齐志莽行书/result.css","css":{"family":"Zhi Mang Xing","style":"normal","weight":"400","display":"swap"}}]},"blbbsxt":{"name":"白路棒棒手写体","remotePath":[{"path":"packages/blbbsxt/dist/白路棒棒手写体/result.css","css":{"family":"bailubangbangshouxieti","style":"normal","weight":"400","display":"swap"}}]},"ysyrxk":{"name":"演示悠然小楷","remotePath":[{"path":"packages/ysyrxk/dist/slideyouran-Regular2_0/result.css","css":{"family":"slideyouran","style":"normal","weight":"400","display":"swap"}}]},"bxzlzt":{"name":"标小智龙珠体","remotePath":[{"path":"packages/bxzlzt/dist/标小智龙珠体/result.css","css":{"family":"LogoSC LongZhuTi","style":"normal","weight":"400","display":"swap"}}]},"zkxw":{"name":"站酷小薇","remotePath":[{"path":"packages/zkxw/dist/站酷小薇LOGO体_猫啃网/result.css","css":{"family":"xiaowei","style":"normal","weight":"400","display":"swap"}}]},"rzjkxzdmh":{"name":"润植家康熙字典美化体","remotePath":[{"path":"packages/rzjkxzdmh/dist/nzgrKangxi/result.css","css":{"family":"nzgrKangxi","style":"normal","weight":"400","display":"swap"}}]},"moon-stars-kai":{"name":"月星楷","remotePath":[{"path":"packages/moon-stars-kai/dist/MoonStarsKaiTHW-Regular/result.css","css":{"family":"Moon Stars Kai T HW","style":"normal","weight":"400","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiTHW-Light/result.css","css":{"family":"Moon Stars Kai T HW Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiTHW-Bold/result.css","css":{"family":"Moon Stars Kai T HW","style":"normal","weight":"700","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiT-Regular/result.css","css":{"family":"Moon Stars Kai T","style":"normal","weight":"400","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiT-Light/result.css","css":{"family":"Moon Stars Kai T Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiT-Bold/result.css","css":{"family":"Moon Stars Kai T","style":"normal","weight":"700","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiHW-Regular/result.css","css":{"family":"Moon Stars Kai HW","style":"normal","weight":"400","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiHW-Light/result.css","css":{"family":"Moon Stars Kai HW Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKaiHW-Bold/result.css","css":{"family":"Moon Stars Kai HW","style":"normal","weight":"700","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKai-Regular/result.css","css":{"family":"Moon Stars Kai","style":"normal","weight":"400","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKai-Light/result.css","css":{"family":"Moon Stars Kai Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/moon-stars-kai/dist/MoonStarsKai-Bold/result.css","css":{"family":"Moon Stars Kai","style":"normal","weight":"700","display":"swap"}}]},"yozai":{"name":"悠哉","remotePath":[{"path":"packages/yozai/dist/Yozai-Regular/result.css","css":{"family":"Yozai","style":"normal","weight":"400","display":"swap"}},{"path":"packages/yozai/dist/Yozai-Medium/result.css","css":{"family":"Yozai Medium","style":"normal","weight":"500","display":"swap"}},{"path":"packages/yozai/dist/Yozai-Light/result.css","css":{"family":"Yozai Light","style":"normal","weight":"300","display":"swap"}},{"path":"packages/yozai/dist/Yozai-Bold/result.css","css":{"family":"Yozai","style":"normal","weight":"700","display":"swap"}}]},"yidianyan":{"name":"一点颜","remotePath":[{"path":"packages/yidianyan/dist/yidianyan/result.css","css":{"family":"I.Ngaan","style":"normal","weight":"400","display":"swap"}}]}}
+{
+    "AlibabaPuHuiTi": {
+        "name": "阿里普惠体",
+        "remotePath": [
+            {
+                "path": "packages/AlibabaPuHuiTi/dist/阿里巴巴普惠体-Regular/result.css",
+                "css": {
+                    "family": "Alibaba PuHuiTi 3.0 55 Regular",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/AlibabaPuHuiTi/dist/阿里巴巴普惠体-Light/result.css",
+                "css": {
+                    "family": "Alibaba PuHuiTi 3.0 45 Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/AlibabaPuHuiTi/dist/阿里巴巴普惠体-Bold/result.css",
+                "css": {
+                    "family": "Alibaba PuHuiTi 3.0 55 Regular",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "DingTalk_JinBuTi": {
+        "name": "钉钉进步体",
+        "remotePath": [
+            {
+                "path": "packages/DingTalk_JinBuTi/dist/钉钉进步体-Regular/result.css",
+                "css": {
+                    "family": "DingTalk JinBuTi",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "MiSans": {
+        "name": "小米 MiSans",
+        "remotePath": [
+            {
+                "path": "packages/MiSans/dist/MiSans-Semibold/result.css",
+                "css": {
+                    "family": "MiSans Semibold",
+                    "style": "normal",
+                    "weight": "600",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/MiSans/dist/MiSans-Regular/result.css",
+                "css": {
+                    "family": "MiSans",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/MiSans/dist/MiSans-Light/result.css",
+                "css": {
+                    "family": "MiSans Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "syst": {
+        "name": "思源宋体",
+        "remotePath": [
+            {
+                "path": "packages/syst/dist/SourceHanSerifCN/result.css",
+                "css": {
+                    "family": "Source Han Serif CN VF",
+                    "style": "normal",
+                    "weight": "250 900",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "lxgwwenkai": {
+        "name": "霞鹜文楷",
+        "remotePath": [
+            {
+                "path": "packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css",
+                "css": {
+                    "family": "LXGW WenKai",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/lxgwwenkai/dist/LXGWWenKai-Light/result.css",
+                "css": {
+                    "family": "LXGW WenKai Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/lxgwwenkai/dist/LXGWWenKai-Bold/result.css",
+                "css": {
+                    "family": "LXGW WenKai",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "lxgwmanhei": {
+        "name": "霞鹜漫黑",
+        "remotePath": [
+            {
+                "path": "packages/lxgwmanhei/dist/LXGWMarkerGothic/result.css",
+                "css": {
+                    "family": "LXGW Marker Gothic",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "dyh": {
+        "name": "得意黑",
+        "remotePath": [
+            {
+                "path": "packages/dyh/dist/SmileySans-Oblique/result.css",
+                "css": {
+                    "family": "Smiley Sans Oblique",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "ysbth": {
+        "name": "优设标题黑",
+        "remotePath": [
+            {
+                "path": "packages/ysbth/dist/优设标题黑/result.css",
+                "css": {
+                    "family": "YouSheBiaoTiHei",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "dyzgt": {
+        "name": "斗鱼追光体",
+        "remotePath": [
+            {
+                "path": "packages/dyzgt/dist/斗鱼追光体/result.css",
+                "css": {
+                    "family": "DOUYU Font",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "hwmct": {
+        "name": "汇文明朝体",
+        "remotePath": [
+            {
+                "path": "packages/hwmct/dist/汇文明朝体/result.css",
+                "css": {
+                    "family": "Huiwen-mincho",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "xcdzjt": {
+        "name": "香萃打字机体",
+        "remotePath": [
+            {
+                "path": "packages/xcdzjt/dist/xiangcuidazijitiw40/result.css",
+                "css": {
+                    "family": "XiangcuiDazijitiW40",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "hcqyt": {
+        "name": "寒蝉全圆体",
+        "remotePath": [
+            {
+                "path": "packages/hcqyt/dist/ChillRoundFRegular/result.css",
+                "css": {
+                    "family": "寒蝉全圆体",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/hcqyt/dist/ChillRoundFBold/result.css",
+                "css": {
+                    "family": "寒蝉全圆体 Bold",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "dymh": {
+        "name": "抖音美好体",
+        "remotePath": [
+            {
+                "path": "packages/dymh/dist/DouyinSansBold/result.css",
+                "css": {
+                    "family": "Douyin Sans",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "mkwtyt": {
+        "name": "猫啃网糖圆体",
+        "remotePath": [
+            {
+                "path": "packages/mkwtyt/dist/MaoKenTangYuan/result.css",
+                "css": {
+                    "family": "MaoKenTangYuan (beta)",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "mksjh": {
+        "name": "猫啃什锦黑",
+        "remotePath": [
+            {
+                "path": "packages/mksjh/dist/MaokenAssortedSans/result.css",
+                "css": {
+                    "family": "MaokenAssortedSans",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "mkzyt": {
+        "name": "猫啃珠圆体",
+        "remotePath": [
+            {
+                "path": "packages/mkzyt/dist/猫啃珠圆体/result.css",
+                "css": {
+                    "family": "MaokenZhuyuanTi",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "ToneOZ-Pinyin-WenKai": {
+        "name": "澳声通拼音文楷",
+        "remotePath": [
+            {
+                "path": "packages/ToneOZ-Pinyin-WenKai/dist/ToneOZ-Pinyin-WenKai-Regular/result.css",
+                "css": {
+                    "family": "ToneOZ-Pinyin-WenKai-Regular",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/ToneOZ-Pinyin-WenKai/dist/ToneOZ-Pinyin-WenKai-Light/result.css",
+                "css": {
+                    "family": "ToneOZ-Pinyin-WenKai-Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/ToneOZ-Pinyin-WenKai/dist/ToneOZ-Pinyin-WenKai-Bold/result.css",
+                "css": {
+                    "family": "ToneOZ-Pinyin-WenKai-Medium",
+                    "style": "normal",
+                    "weight": "500",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "yqt": {
+        "name": "游趣体",
+        "remotePath": [
+            {
+                "path": "packages/yqt/dist/ChildFunSans-Demo/result.css",
+                "css": {
+                    "family": "Child Fun Sans Demo",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "qtbfsxt": {
+        "name": "千图笔锋手写体",
+        "remotePath": [
+            {
+                "path": "packages/qtbfsxt/dist/千图笔锋手写体/result.css",
+                "css": {
+                    "family": "qiantubifengshouxieti",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "zqzmxs": {
+        "name": "钟齐志莽行书",
+        "remotePath": [
+            {
+                "path": "packages/zqzmxs/dist/钟齐志莽行书/result.css",
+                "css": {
+                    "family": "Zhi Mang Xing",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "blbbsxt": {
+        "name": "白路棒棒手写体",
+        "remotePath": [
+            {
+                "path": "packages/blbbsxt/dist/白路棒棒手写体/result.css",
+                "css": {
+                    "family": "bailubangbangshouxieti",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "ysyrxk": {
+        "name": "演示悠然小楷",
+        "remotePath": [
+            {
+                "path": "packages/ysyrxk/dist/slideyouran-Regular2_0/result.css",
+                "css": {
+                    "family": "slideyouran",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "bxzlzt": {
+        "name": "标小智龙珠体",
+        "remotePath": [
+            {
+                "path": "packages/bxzlzt/dist/标小智龙珠体/result.css",
+                "css": {
+                    "family": "LogoSC LongZhuTi",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "zkxw": {
+        "name": "站酷小薇",
+        "remotePath": [
+            {
+                "path": "packages/zkxw/dist/站酷小薇LOGO体_猫啃网/result.css",
+                "css": {
+                    "family": "xiaowei",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "rzjkxzdmh": {
+        "name": "润植家康熙字典美化体",
+        "remotePath": [
+            {
+                "path": "packages/rzjkxzdmh/dist/nzgrKangxi/result.css",
+                "css": {
+                    "family": "nzgrKangxi",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "moon-stars-kai": {
+        "name": "月星楷",
+        "remotePath": [
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiTHW-Regular/result.css",
+                "css": {
+                    "family": "Moon Stars Kai T HW",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiTHW-Light/result.css",
+                "css": {
+                    "family": "Moon Stars Kai T HW Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiTHW-Bold/result.css",
+                "css": {
+                    "family": "Moon Stars Kai T HW",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiT-Regular/result.css",
+                "css": {
+                    "family": "Moon Stars Kai T",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiT-Light/result.css",
+                "css": {
+                    "family": "Moon Stars Kai T Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiT-Bold/result.css",
+                "css": {
+                    "family": "Moon Stars Kai T",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiHW-Regular/result.css",
+                "css": {
+                    "family": "Moon Stars Kai HW",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiHW-Light/result.css",
+                "css": {
+                    "family": "Moon Stars Kai HW Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKaiHW-Bold/result.css",
+                "css": {
+                    "family": "Moon Stars Kai HW",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKai-Regular/result.css",
+                "css": {
+                    "family": "Moon Stars Kai",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKai-Light/result.css",
+                "css": {
+                    "family": "Moon Stars Kai Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/moon-stars-kai/dist/MoonStarsKai-Bold/result.css",
+                "css": {
+                    "family": "Moon Stars Kai",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "yozai": {
+        "name": "悠哉",
+        "remotePath": [
+            {
+                "path": "packages/yozai/dist/Yozai-Regular/result.css",
+                "css": {
+                    "family": "Yozai",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/yozai/dist/Yozai-Medium/result.css",
+                "css": {
+                    "family": "Yozai Medium",
+                    "style": "normal",
+                    "weight": "500",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/yozai/dist/Yozai-Light/result.css",
+                "css": {
+                    "family": "Yozai Light",
+                    "style": "normal",
+                    "weight": "300",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/yozai/dist/Yozai-Bold/result.css",
+                "css": {
+                    "family": "Yozai",
+                    "style": "normal",
+                    "weight": "700",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
+    "yidianyan": {
+        "name": "一点颜",
+        "remotePath": [
+            {
+                "path": "packages/yidianyan/dist/yidianyan/result.css",
+                "css": {
+                    "family": "I.Ngaan",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    }
+}
