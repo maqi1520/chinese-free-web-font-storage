@@ -244,6 +244,20 @@
             }
         ]
     },
+    "prsxt": {
+        "name": "品如手写体",
+        "remotePath": [
+            {
+                "path": "packages/prsxt/dist/品如手写体/result.css",
+                "css": {
+                    "family": "品如手写体",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
     "mkwtyt": {
         "name": "猫啃网糖圆体",
         "remotePath": [
