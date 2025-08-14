@@ -258,6 +258,56 @@
             }
         ]
     },
+    "cangerziti": {
+        "name": "苍耳字体",
+        "remotePath": [
+            {
+                "path": "packages/cangerziti/dist/仓耳舒圆体W04/result.css",
+                "css": {
+                    "family": "TsangerShuYuanT W04",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/cangerziti/dist/仓耳渔阳体W04/result.css",
+                "css": {
+                    "family": "TsangerYuYangT W04",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/cangerziti/dist/仓耳小丸子/result.css",
+                "css": {
+                    "family": "TsangerXWZ",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/cangerziti/dist/仓耳周珂正大榜书/result.css",
+                "css": {
+                    "family": "TsangerZhoukeZhengdabangshu",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            },
+            {
+                "path": "packages/cangerziti/dist/仓耳与墨W04/result.css",
+                "css": {
+                    "family": "TsangerYuMo W04",
+                    "style": "normal",
+                    "weight": "400",
+                    "display": "swap"
+                }
+            }
+        ]
+    },
     "mkwtyt": {
         "name": "猫啃网糖圆体",
         "remotePath": [

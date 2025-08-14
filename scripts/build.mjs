@@ -75,7 +75,7 @@ for (const iterator of packages) {
             input: `./packages/${iterator}/fonts/${name}`,
             outDir: dest,
             previewImage: {
-                text: overrides[iterator],
+                text: overrides[iterator]==='苍耳字体'?name.replace(/\.\w+$/, ""):overrides[iterator],
                 
                 name: "preview",
             },
